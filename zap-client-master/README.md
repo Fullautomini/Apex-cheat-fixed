@@ -94,7 +94,7 @@ https://github.com/Gerosity/Apex-Protection         - A protection guide, not fu
 
 **4. Clone repo**
 
-    git clone https://github.com/Gerosity/zap-client.git
+    https://github.com/Fullautomini/Apex-cheat-fixed/tree/main/zap-client-master.git
     cd zap-client
 
 **5. Build & Run**
