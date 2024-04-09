@@ -90,7 +90,7 @@ Instructions are down below
 **4. Clone repo**
 
     https://github.com/Fullautomini/Apex-cheat-fixed/tree/main/zap-client-master.git
-    cd Liam Client
+    cd Liam-client
 
 
 **5. Build & Run**
